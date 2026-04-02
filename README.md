@@ -6,6 +6,7 @@
 # Sleepy-Bot 
 
 **A Discord.py starter kit.**
+
 **Provides samples of Discord bot response types for beginners.**
 
 Learn how to communicate with users through text, rich media, and interactive components.
