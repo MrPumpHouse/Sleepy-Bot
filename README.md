@@ -4,9 +4,9 @@
 <img src="https://i.ibb.co/23qwWrCn/Bot.png" width="80">
 
 # Sleepy-Bot 
-A Discord.py Starter Kit
 
-**A comprehensive sample of Discord bot response types for beginners.**
+**A Discord.py starter kit.**
+**Provides samples of Discord bot response types for beginners.**
 
 Learn how to communicate with users through text, rich media, and interactive components.
 
