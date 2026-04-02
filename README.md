@@ -1,17 +1,17 @@
 <div align="center">
 # <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f916.png" width="30"> Discord.py Starter Kit
-**A comprehensive sample of Discord bot response types for beginners..**
+**A comprehensive sample of Discord bot response types for beginners.**
 Learn how to communicate with users through text, rich media, and interactive components.
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![discord.py](https://img.shields.io/badge/-discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
 </div>
 ---
 ## Table of Contents
-- [Message Types](#-message-types-included)
-- [Project Structure](#-project-structure)
-- [Setup & Installation](#%EF%B8%8F-setup--installation)
-- [How to Use](#-how-to-use-these-samples)
-- [Security](#-security)
+- [Message Types](#message-types-included)
+- [Project Structure](#project-structure)
+- [Setup & Installation](#setup--installation)
+- [How to Use](#how-to-use-these-samples)
+- [Security](#security)
 ---
 ## Message Types Included
 | **Feature** | **Description** |
@@ -24,7 +24,6 @@ Learn how to communicate with users through text, rich media, and interactive co
 ---
 ## Project Structure
 Each message type is split into **two files** to help you learn:
-
 | File | Purpose |
 | :--- | :--- |
 | `bot.py` | Plain code |
