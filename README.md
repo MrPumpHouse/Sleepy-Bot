@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# <img src="https://i.ibb.co/23qwWrCn/Bot.png" width="30"> Discord.py Starter Kit
+# <img src="https://i.ibb.co/23qwWrCn/Bot.png" width="200" height="100" Discord.py Starter Kit
 
 **A comprehensive sample of Discord bot response types for beginners.**
 
