@@ -1,7 +1,9 @@
 
 <div align="center">
 
-# <img src="https://i.ibb.co/23qwWrCn/Bot.png" width="100"> Discord.py Starter Kit
+<img src="https://i.ibb.co/23qwWrCn/Bot.png" width="80">
+
+# Discord.py Starter Kit
 
 **A comprehensive sample of Discord bot response types for beginners.**
 
@@ -14,7 +16,7 @@ Learn how to communicate with users through text, rich media, and interactive co
 
 ---
 
-## Table of Contents
+## <img src="https://i.ibb.co/dwDyDKYM/Folder.png" width="23"> Table of Contents
 
 - [Message Types](#message-types-included)
 - [Project Structure](#project-structure)
@@ -24,7 +26,7 @@ Learn how to communicate with users through text, rich media, and interactive co
 
 ---
 
-## Message Types Included
+## <img src="https://i.ibb.co/svH5jyTR/Embed.png" width="23"> Message Types Included
 
 | **Feature** | **Description** |
 | :--- | :--- |
@@ -36,7 +38,7 @@ Learn how to communicate with users through text, rich media, and interactive co
 
 ---
 
-## Project Structure
+## <img src="https://i.ibb.co/DHCNDmgb/Info.png" width="23"> Project Structure
 
 Each message type is split into **two files** to help you learn:
 
@@ -50,7 +52,7 @@ Each message type is split into **two files** to help you learn:
 
 ---
 
-## Setup & Installation
+## <img src="https://i.ibb.co/HpptfL0X/Web.png" width="23"> Setup & Installation
 
 ### Prerequisites
 
@@ -88,7 +90,7 @@ python bot.py
 
 ---
 
-## How to Use These Samples
+## <img src="https://i.ibb.co/93mrZyhk/Wrench.png" width="23"> How to Use These Samples
 
 1. **Read** the `guided_bot.py` file first to understand the logic.
 2. **Test** the command in your Discord server to see the visual result.
@@ -96,7 +98,7 @@ python bot.py
 
 ---
 
-## Security
+## <img src="https://i.ibb.co/W4H2DgDG/Lock.png" width="23"> Security
 
 > **The #1 Rule:** Never share your `.env` file or your Bot Token.
 
